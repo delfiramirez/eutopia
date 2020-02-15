@@ -1,5 +1,6 @@
 /vendor/
 node_modules/
+/b_up/nbproject/private/
 npm-debug.log
 yarn-error.log
 
